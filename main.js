@@ -48,6 +48,12 @@ productList.push({
 })
 
 productList.push({
+    name: "Sofa",
+    price: "199 USD",
+    image: "https://images.pexels.com/photos/276566/pexels-photo-276566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+})
+
+productList.push({
     name: "Classic Guitar",
     price: "70 USD",
     image: "https://images.pexels.com/photos/1995803/pexels-photo-1995803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
@@ -73,10 +79,32 @@ productList.push({
 })
 
 productList.push({
-    name: "TV",
-    price: "150 USD",
-    image: "https://images.pexels.com/photos/6976094/pexels-photo-6976094.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name: "Nintendo Switch",
+    price: "350 USD",
+    image: "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 })
+
+productList.push({
+    name: "Dinosaur Toy",
+    price: "15 USD",
+    image: "https://images.pexels.com/photos/3671194/pexels-photo-3671194.jpeg?auto=compress&cs=tinysrgb&w=600",
+})
+
+productList.push({
+    name: "R2D2 Toy",
+    price: "15 USD",
+    image: "https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+})
+
+productList.push({
+    name: "2 Blazers with pants and ties",
+    price: "60 USD",
+    image: "https://images.pexels.com/photos/3755706/pexels-photo-3755706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+})
+
+
+
+https://images.pexels.com/photos/276566/pexels-photo-276566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 /*
 <div class="product-card">
     <img src="https://images.pexels.com/photos/2412368/pexels-photo-2412368.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="">
