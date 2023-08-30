@@ -204,7 +204,7 @@ nav{
   font-weight: bold;
 }
 
-.product-detail {
+aside {
     background-color: var(--white);
     width: 360px;
     padding-bottom: 0, 24px;
@@ -300,7 +300,7 @@ nav{
 }
 
 @media (max-width: 640px){
-    .product-detail {
+    aside {
         width: 100%;
     }
 
