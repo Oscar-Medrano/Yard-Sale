@@ -181,7 +181,7 @@ function renderListProduct(productList){
         pprice.innerText ='$' + product.price
         pname.innerText = product.name
         pInfo.innerText = product.desc
-        imgproductinfo.setAttribute('src', './icons/bt_add_to_cart.svg')
+        imgproductinfo.setAttribute('src', './iconos/bt_add_to_cart.svg')
         
         figureproductinfo.appendChild(imgproductinfo)
         divdivproductinfo.appendChild(pprice)
@@ -234,7 +234,7 @@ function agregarCarrito(producto){
     imgfigureShoppingCart.setAttribute('src', producto[0].image)
     pnameShoppingCart.innerText = producto[0].name
     ppriceShoppingCart.innerText ='$' + producto[0].price
-    imgcloseShoppingCart.setAttribute('src','./icons/icon_close.png')
+    imgcloseShoppingCart.setAttribute('src','./iconos/icon_close.png')
     imgcloseShoppingCart.classList.add('removeList')
 
     /* Se insertan los documentos */
