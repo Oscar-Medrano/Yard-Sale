@@ -431,7 +431,7 @@
 
 
   
-  @media (max-width: 770px) {
+  @media (max-width: 880px) {
       .menu {
           display: block;
       }
@@ -463,7 +463,7 @@
           height: 140px;
       }
   }
-  @media (min-width: 771px){
+  @media (min-width: 881px){
     .mobile-menu{
         display: none;
     }
